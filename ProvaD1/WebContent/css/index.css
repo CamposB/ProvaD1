@@ -1,0 +1,18 @@
+body{
+	background-color: black;
+}
+h1{
+	position: relative;
+    top: 50px;
+    float: center;
+	color: white;
+	text-align: center;
+}
+#buttons{
+	position: absolute;
+	left: 370px;
+	top: 200px;
+}
+hr {
+  border-top: 3px solid black;
+}

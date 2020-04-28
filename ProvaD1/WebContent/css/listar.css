@@ -1,0 +1,41 @@
+body{
+	background-color: black;
+}
+h1{
+	position: relative;
+    top: 10px;
+    float: center;
+	color: white;
+	text-align: center;
+}
+h2{
+	position: relative;
+    top: 10px;
+    float: center;
+	color: white;
+	text-align: center;
+}
+h3{
+	position: relative;
+    top: 10px;
+    float: center;
+	color: white;
+	text-align: center;
+}
+#buttons{
+	position: absolute;
+	left: 370px;
+	top: 200px;
+}
+p{
+	color: white;
+}
+h4{
+	color: white;
+}
+h5{
+	color: white;
+}
+hr {
+  border-top: 5px solid white;
+}
